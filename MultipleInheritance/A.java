@@ -2,7 +2,8 @@ package MultipleInheritance;
 
 public class A {
 
-    void msg(){
+    void msg()
+    {
 
         System.out.println("Hello A");
     }

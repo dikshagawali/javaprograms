@@ -1,15 +1,14 @@
 package MultipleInheritance;
 
-public class C extends A {
+// Multiple inheritance is not supported in Java through class.
+/*public class C extends A,B {
 
-   public static void main(String[] args){
-
-       C obj=new C();
-       obj.msg();
-
-
-   }
+    void msg() {
+        System.out.println("Welcome C");
 
 
+    }
+}*/
 
-}
+
+
